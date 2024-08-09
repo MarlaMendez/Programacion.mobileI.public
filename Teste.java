@@ -3,7 +3,7 @@ public class  Teste{
         System.out.println("123!");
         System.out.println("Olá mundo!");
     }
-    public void Teste(){
+    public void teste(){
         //aaaah
     }
 }
